@@ -1,0 +1,22 @@
+O cálculo da tabuada do número 9 pode ser feito sem multiplicação direta, seguindo a seguinte regra. Para calcular 9 multiplicado por qualquer número voce deve subtrair 1 de n: isso nos dá a dezena do resultado.
+Depois tem que subtrair n de 10 e isso nos dá a unidade do resultado.
+O primeiro numero como representa a dezena ele vai ser multiplicado por dez, o outro é a unidade que deve ser somada à dezena encontrada.
+Exemplo:
+Para 9 × 3:
+n = 3
+a fórmula dada é 9 * n = (n-1) * 10 + 10-n  logo:
+9 * 3 = (3-1) * 10 + 10-3
+
+3 - 1 = 2 → Dezena
+10 - 3 = 7 → Unidade
+
+9 * 3 = 2 * 10 + 7
+9 * 3 = 20 + 7 = 27
+
+Verificando ainda a formúla usando um numero "n" qualquer observa-se também que essa fórmula vale para qualquer número real.
+
+9 * n = (n-1) * 10 + 10-n
+9n = 10n -10 + 10 -n
+9n = 9n
+
+portando n pode ser qualquer número.
